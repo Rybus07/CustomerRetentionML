@@ -13,7 +13,7 @@ Develop a predictive model to identify customers at risk of churning. The model 
 - Gather a dataset that contains customer information, transaction history, and churn labels (1 for churned, 0 for retained).
 - Clean and preprocess the data by handling missing values, encoding categorical variables, and scaling numerical features.
 
-## Dataset
+#### Dataset
 
 This project uses the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) from the UCI Machine Learning Repository.
 
