@@ -1,9 +1,9 @@
 # CustomerRetentionML
 
-### Background:
+## Background:
 In many industries, retaining existing customers is more cost-effective than acquiring new ones. Businesses often face challenges in predicting which customers are likely to churn (stop using their services or products). By understanding the factors that contribute to customer churn, companies can implement strategies to improve customer retention.
 
-### Objective:
+## Objective:
 Develop a predictive model to identify customers at risk of churning. The model should analyze historical customer data to determine which features (such as usage patterns, customer demographics, transaction history, etc.) are most indicative of churn.
 
 ## Specific Goals:
