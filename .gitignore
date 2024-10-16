@@ -148,6 +148,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#Mira Turp instruction video additions
+.DS_Store
+*.csv
+
 # pytype static type analyzer
 .pytype/
 
